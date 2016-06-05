@@ -1,0 +1,14 @@
+layout_spectrum: 0.11600440996699035
+typography_spectrum: 0.523308391449973
+color:
+  brandStrength: 0.13398769730702043
+  lightness: 0.9372831822838634
+  saturation: 0.03512518433853984
+  rhythmicContrast: 0.2997062602080405
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Liquid Phi
